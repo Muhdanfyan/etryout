@@ -1387,6 +1387,7 @@ th {
  /* Start news Area
 =========================================================================================== */
 .news-area .container-fluid {
+  background-color: #f6f6f6;
   padding-left: 21%;
   padding-right: 0;}
   @media (min-width: 1921px) {
